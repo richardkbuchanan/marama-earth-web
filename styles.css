@@ -289,6 +289,12 @@ footer{
   .hero{padding-top:110px;min-height:92vh}
   .hero h1{font-size:54px}.hero-visual{width:120vw;right:-45vw;opacity:.42}.hero-side{display:none}
   .two-col,.distinction,.marama-layer{gap:30px}
+  .evidence-cloud{width:min(100%,320px);min-height:340px;margin:0 auto}
+  .evidence-chip{font-size:16px}
+  .evidence-chip:nth-child(3),
+  .evidence-chip:nth-child(6),
+  .evidence-chip:nth-child(9),
+  .evidence-chip:nth-child(10){transform:translateX(-100%)}
   .compare{grid-template-columns:1fr}.compare-rule{display:none}
   .capital-path{display:grid;grid-template-columns:1fr 30px 1fr;row-gap:28px}
   .capital-path .arrow:nth-of-type(2){display:none}
