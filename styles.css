@@ -291,6 +291,14 @@ footer{
   .two-col,.distinction,.marama-layer{gap:30px}
   .evidence-cloud{width:min(100%,320px);min-height:340px;margin:0 auto}
   .evidence-chip{font-size:16px}
+  .evidence-chip:nth-child(2){left:42%;top:14%}
+  .evidence-chip:nth-child(3){left:78%;top:21%}
+  .evidence-chip:nth-child(5){left:49%;top:46%}
+  .evidence-chip:nth-child(6){left:84%;top:39%}
+  .evidence-chip:nth-child(7){left:11%;top:67%}
+  .evidence-chip:nth-child(8){left:36%;top:72%}
+  .evidence-chip:nth-child(9){left:66%;top:64%}
+  .evidence-chip:nth-child(10){left:81%;top:80%}
   .evidence-chip:nth-child(3),
   .evidence-chip:nth-child(6),
   .evidence-chip:nth-child(9),
