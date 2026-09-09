@@ -291,15 +291,18 @@ footer{
   .two-col,.distinction,.marama-layer{gap:30px}
   .evidence-cloud{width:min(100%,320px);min-height:340px;margin:0 auto}
   .evidence-chip{font-size:16px}
-  .evidence-chip:nth-child(2){left:21% !important;top:7% !important}
-  .evidence-chip:nth-child(3){left:58% !important;top:12% !important;transform:none !important}
-  .evidence-chip:nth-child(5){left:30% !important;top:55% !important}
-  .evidence-chip:nth-child(6){left:66% !important;top:31% !important;transform:none !important}
-  .evidence-chip:nth-child(7){left:4% !important;top:68% !important}
-  .evidence-chip:nth-child(8){left:57% !important;top:79% !important}
-  .evidence-chip:nth-child(9){left:40% !important;top:68% !important;transform:none !important}
-  .evidence-chip:nth-child(10){left:52% !important;top:89% !important;transform:none !important}
-  .evidence-chip:nth-child(12){left:74% !important;top:22% !important;transform:none !important}
+  .evidence-chip:nth-child(1){left:4% !important;top:6% !important;transform:none !important}
+  .evidence-chip:nth-child(2){left:39% !important;top:8% !important;transform:none !important}
+  .evidence-chip:nth-child(3){left:71% !important;top:16% !important;transform:none !important}
+  .evidence-chip:nth-child(4){left:8% !important;top:72% !important;transform:none !important}
+  .evidence-chip:nth-child(5){left:46% !important;top:60% !important;transform:none !important}
+  .evidence-chip:nth-child(6){left:61% !important;top:47% !important;transform:none !important}
+  .evidence-chip:nth-child(7){left:2% !important;top:86% !important;transform:none !important}
+  .evidence-chip:nth-child(8){left:67% !important;top:80% !important;transform:none !important}
+  .evidence-chip:nth-child(9){left:40% !important;top:78% !important;transform:none !important}
+  .evidence-chip:nth-child(10){left:63% !important;top:92% !important;transform:none !important}
+  .evidence-chip:nth-child(11){left:22% !important;top:45% !important;transform:none !important}
+  .evidence-chip:nth-child(12){left:77% !important;top:42% !important;transform:none !important}
   .compare{grid-template-columns:1fr}.compare-rule{display:none}
   .capital-path{display:grid;grid-template-columns:1fr 30px 1fr;row-gap:28px}
   .capital-path .arrow:nth-of-type(2){display:none}
